@@ -4,8 +4,8 @@ This repository hosts stock icons developed for and used in [WireframeSketcher w
 
 # Files
 
-* source - original sources created using Inkscape
-* export - exported icons in PNG format in 4 different sizes
+* source - original sources in SVG format created using Inkscape
+* export - exported icons in PNG format at 4 different sizes and as clean SVG
 
 # License
 
