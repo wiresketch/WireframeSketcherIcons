@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg5326"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="grab-cursor.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs5328">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective5334" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.657"
+     inkscape:cx="-79.8"
+     inkscape:cy="48.3"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     objecttolerance="11"
+     gridtolerance="11"
+     guidetolerance="11"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5336"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       empspacing="4"
+       spacingx="4px"
+       spacingy="4px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5331">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>mouse</rdf:li>
+            <rdf:li>pointer</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>hand</rdf:li>
+            <rdf:li>grab</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 30.79,4 C 28.66,4 26.94,5.83 26.94,8.094 L 26.94,31.91 C 26.94,31.94 26.94,31.97 26.94,32 L 26.32,32 C 26.31,31.66 26.25,31.32 26.16,30.97 L 20.01,7.937 C 19.42,5.751 17.31,4.45 15.26,5 L 14.91,5.094 C 12.86,5.643 11.7,7.845 12.29,10.03 L 18.44,33.03 C 18.56,33.45 18.73,33.84 18.94,34.19 L 18.94,34.78 11.13,25.47 C 9.676,23.73 7.195,23.45 5.568,24.81 L 5.318,25.03 C 3.692,26.4 3.551,28.89 5.006,30.62 L 20.32,48.88 C 21.02,49.71 21.97,50.2 22.94,50.34 L 22.94,56 46.94,56 48,48 48,48 C 50.05,48.55 51.42,46.25 52.01,44.06 L 58.16,21.03 C 58.75,18.84 57.59,16.64 55.54,16.09 L 55.19,16 C 53.14,15.45 51.03,16.78 50.44,18.97 L 46.94,32 44.88,32 46.57,12.78 C 46.77,10.53 45.21,8.56 43.1,8.375 L 42.76,8.344 C 40.64,8.159 38.8,9.807 38.6,12.06 L 36.85,32 34.94,32 C 34.94,31.97 34.94,31.94 34.94,31.91 L 34.94,8.094 C 34.94,5.83 33.22,4 31.1,4 L 30.79,4 z"
+       id="rect3173"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

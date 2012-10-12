@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="64"
+   height="64"
+   id="svg4729"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="comments.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>comments</rdf:li>
+            <rdf:li>discussion</rdf:li>
+            <rdf:li>feedback</rdf:li>
+            <rdf:li>conversation</rdf:li>
+            <rdf:li>social</rdf:li>
+            <rdf:li>messages</rdf:li>
+            <rdf:li>chat</rdf:li>
+            <rdf:li>replies</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="7.21875"
+     inkscape:cx="-18.285714"
+     inkscape:cy="32.675492"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg4729"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2380"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       spacingx="4px"
+       spacingy="4px"
+       originx="2px"
+       originy="2px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4731">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective9" />
+  </defs>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 42,28 C 42,29.931901 41.44,31.772901 40.4275,33.447651 39.415,35.122401 37.95,36.630901 36.14,37.897901 34.33,39.164901 32.175,40.190401 29.7825,40.899151 28.58625,41.253526 27.330625,41.528714 26.029062,41.715307 24.7275,41.901901 7.38,58 6,58 3.353615,58.046473 16.762998,41.571805 14.2175,40.899151 11.825,40.190401 9.67,39.164901 7.86,37.897901 6.05,36.630901 4.585,35.122401 3.5725,33.447651 2.56,31.772901 2,29.931901 2,28 2,20.271901 10.96,14 22,14 33.04,14 42,20.271901 42,28 z"
+     id="path2388"
+     sodipodi:nodetypes="cssssccssssc" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 42 6 C 38.634844 6 35.471293 6.5959046 32.6875 7.625 C 36.397267 8.7750578 39.867123 10.563041 42.84375 13.1875 C 51.569063 19.329653 51.484358 31.799678 45.6875 39.96875 C 51.031141 44.592175 57.188772 50 58 50 C 60.646385 50.046572 47.235752 33.578904 49.78125 32.90625 C 52.17375 32.1975 54.315 31.17325 56.125 29.90625 C 57.935 28.63925 59.425 27.11225 60.4375 25.4375 C 61.45 23.76275 62 21.932 62 20 C 62 12.272 53.04 6 42 6 z "
+     id="path3598" />
+</svg>

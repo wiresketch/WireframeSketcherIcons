@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="64"
+   height="64"
+   id="svg4729"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="secure.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>secure</rdf:li>
+            <rdf:li>locked</rdf:li>
+            <rdf:li>ssl</rdf:li>
+            <rdf:li>:lock</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="40.84"
+     inkscape:cx="29.6"
+     inkscape:cy="20.63"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg4729"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2380"
+       dotted="true"
+       visible="true"
+       enabled="true"
+       spacingx="4px"
+       spacingy="4px"
+       originx="2px"
+       originy="2px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4731">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective9" />
+  </defs>
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+     d="M 32,0 C 25,0 19.31,5.735 17.3,12 16,16 16,20 16,24 11.52,24 8,28.16 8,32.62 L 8,53 C 8,57.1 12.53,60 16.77,60 L 48.91,60 C 53.16,60 56,55.4 56,51.23 L 56,31.05 C 56,27.24 51.71,24 48,24 48,19.1 48,14 45.66,9.624 43.21,4.347 38,0 32,0 z M 32,8 C 34.4,7.978 36.42,9.819 37.83,12 39.96,15.1 39.97,20.24 40,24 L 24,24 C 24,20 24,15.5 26.17,12 27.41,10 29.46,8 32,8 z M 32,34 C 35.3,34 38,36.69 38,40 38,42.22 36.79,44.13 35,45.17 L 35,53.23 C 35,53.64 34.65,54 34.24,54 L 29.75,54 C 29.34,54 29,53.64 29,53.23 L 29,45.17 C 27.22,44.13 26,42.22 26,40 26,36.69 28.69,34 32,34 z"
+     id="path3588"
+     sodipodi:nodetypes="cccccccccccccccccccsccccccsc" />
+</svg>
