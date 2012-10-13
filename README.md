@@ -1,6 +1,6 @@
 # About
 
-This repository hosts stock icons developed for and used in [WireframeSketcher wireframing tool](http://wireframesketcher.com). Icons are designed with wireframing in mind and work well at different sizes.
+This repository hosts 200 stock icons developed for and used in [WireframeSketcher wireframing tool](http://wireframesketcher.com). Icons are designed with wireframing in mind and work well at different sizes.
 
 # Files
 
