@@ -13,7 +13,7 @@
    height="64px"
    id="svg5326"
    sodipodi:version="0.32"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="loading.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1">
@@ -90,17 +90,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="22.729473"
-     inkscape:cy="31.238987"
+     inkscape:zoom="11.31"
+     inkscape:cx="7.262"
+     inkscape:cy="31.24"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="1914"
-     inkscape:window-height="1054"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      objecttolerance="11"
      gridtolerance="11"
      guidetolerance="11"
@@ -131,6 +131,8 @@
             <rdf:li>wait</rdf:li>
             <rdf:li>busy</rdf:li>
             <rdf:li>loading</rdf:li>
+            <rdf:li>spinner</rdf:li>
+            <rdf:li>wheel</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <dc:title></dc:title>
